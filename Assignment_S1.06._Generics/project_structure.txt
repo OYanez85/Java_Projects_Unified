@@ -1,0 +1,29 @@
+.
+├── Nivell_1
+│   ├── Exercici_1
+│   │   ├── NoGenericMethods.class
+│   │   └── NoGenericMethods.java
+│   └── Exercici_2
+│       ├── GenericMethods.class
+│       └── GenericMethods.java
+├── Nivell_2
+│   ├── Exercici_1
+│   │   ├── GenericMethodsModified.class
+│   │   └── GenericMethodsModified.java
+│   └── Exercici_2
+│       ├── VarArgsMethods.class
+│       └── VarArgsMethods.java
+├── Nivell_3
+│   └── Exercici_1
+│       ├── Generica.class
+│       ├── Generica.java
+│       ├── Principal.class
+│       ├── Principal.java
+│       ├── Smartphone.class
+│       ├── Smartphone.java
+│       ├── Telefon.class
+│       └── Telefon.java
+├── project_structure.txt
+└── readme.txt
+
+9 directories, 18 files
